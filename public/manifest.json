@@ -1,0 +1,20 @@
+﻿{
+  "name": "Tiểu Học Vui Học - Học Toán, Tiếng Việt, Tiếng Anh",
+  "short_name": "Tiểu Học Vui",
+  "description": "Ứng dụng học tập tiểu học thông minh cho học sinh Lớp 1 đến Lớp 5 - Toán, Tiếng Việt, Tiếng Anh và Nuôi thú cưng Bibo.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F8F9FD",
+  "theme_color": "#FF9F43",
+  "lang": "vi",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "kids", "games"]
+}
